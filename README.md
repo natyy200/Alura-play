@@ -1,3 +1,5 @@
+link projeto: https://alura-play-sable-omega.vercel.app/
+
 Vídeos da sessão vídeos:
 
         <li class="videos__item">
